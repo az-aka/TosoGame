@@ -1,0 +1,4 @@
+name: AzTosoGame
+version: '${project.version}'
+main: aztosogame.aztosogame.AzTosoGame
+api-version: 1.19
